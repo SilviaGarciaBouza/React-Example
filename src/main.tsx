@@ -8,3 +8,4 @@ ReactDOM.createRoot(document.getElementById('root')!).render(
     <App />
   </React.StrictMode>,
 )
+//para los componentes mirar https://getbootstrap.com/docs/5.3/components/card/
